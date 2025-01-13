@@ -56,7 +56,7 @@ Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/) o
 
 - 🪨 [Obsidian Sync](https://github.com/petioptrv/obsidian-sync), an [Anki](https://www.google.com/search?client=safari&rls=en&q=anki&ie=UTF-8&oe=UTF-8) add-on for syncing with [Obsidian](https://obsidian.md).
 - 🧑‍🏫 [ML Tutor](https://github.com/petioptrv/ml-tutor), an [Anki](https://www.google.com/search?client=safari&rls=en&q=anki&ie=UTF-8&oe=UTF-8) add-on that uses ChatGPT to rephrase card questions.
-- 🍎 [Apple Reminers GTD](https://github.com/petioptrv/reminders-gtd), a set of Siri Shortcuts that enable the [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/) based entirely on Apple's ecosystem.
+- 🍎 [Apple Reminers GTD](https://github.com/petioptrv/reminders-gtd), a set of Siri Shortcuts that enable the [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/) system implemented entirely in Apple's ecosystem.
 
 ### Self-Experiments
 
