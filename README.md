@@ -55,13 +55,13 @@ Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/) o
 ### Productivity
 
 - 🪨 [Obsidian Sync](https://github.com/petioptrv/obsidian-sync), an [Anki](https://www.google.com/search?client=safari&rls=en&q=anki&ie=UTF-8&oe=UTF-8) add-on for syncing with [Obsidian](https://obsidian.md).
-- 🧑‍🏫 [ML Tutor](https://github.com/petioptrv/ml-tutor), an [Anki](https://www.google.com/search?client=safari&rls=en&q=anki&ie=UTF-8&oe=UTF-8) add-on that uses ChatGPT to rephrase card questions.
+- 🧑‍🏫 [ML Tutor](https://github.com/petioptrv/ml-tutor), an [Anki](https://www.google.com/search?client=safari&rls=en&q=anki&ie=UTF-8&oe=UTF-8) add-on using ChatGPT to rephrase card questions.
 - 🍎 [Apple Reminers GTD](https://github.com/petioptrv/reminders-gtd), a set of Siri Shortcuts that enable the [Getting Things Done (GTD)](https://gettingthingsdone.com/what-is-gtd/) system implemented entirely in Apple's ecosystem.
 
 ### Self-Experiments
 
-- 😴 [Workout and Sleep Study](https://github.com/petioptrv/workout_and_sleep_study/blob/master/workout_and_sleep_study.ipynb), a self-experiment gaging the effects different types of physical exercise have on my quality of sleep.
-- 🥗 [Caloric Defficit Study](https://github.com/petioptrv/calories_restriction_experiment/blob/master/calories_restriction_experiment.ipynb), a self-experiment with the goal of determining at what rate I lose weight for a given caloric deficit.
+- 😴 [Workout and Sleep Study](https://github.com/petioptrv/workout_and_sleep_study/blob/master/workout_and_sleep_study.ipynb), a self-experiment gaging the effects of different types of physical exercise on my quality of sleep.
+- 🥗 [Caloric Deficit Study](https://github.com/petioptrv/calories_restriction_experiment/blob/master/calories_restriction_experiment.ipynb), a self-experiment with the goal of determining at what rate I lose weight for a given caloric deficit.
 
 ### Other
 
