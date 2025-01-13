@@ -61,7 +61,7 @@ Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/) o
 ### Self-Experiments
 
 - 😴 [Workout and Sleep Study](https://github.com/petioptrv/workout_and_sleep_study/blob/master/workout_and_sleep_study.ipynb), a self-experiment gaging the effects different types of physical exercise have on my quality of sleep.
-- 🥗 [Caloric Defficit Study](https://github.com/petioptrv/calories_restriction_experiment/blob/master/calories_restriction_experiment.ipynb), a self-experiment with the goal of determining at what rate do I lose weight for a given caloric deficit.
+- 🥗 [Caloric Defficit Study](https://github.com/petioptrv/calories_restriction_experiment/blob/master/calories_restriction_experiment.ipynb), a self-experiment with the goal of determining at what rate I lose weight for a given caloric deficit.
 
 ### Other
 
