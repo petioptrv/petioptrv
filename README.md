@@ -39,7 +39,7 @@ Only a brief mention and redirection to my Upwork profile. Otherwise, add sectio
 
 I'm a freelance software engineer specializing in algorithmic trading and backtesting.
 
-Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/) or [Upwork](https://www.upwork.com/freelancers/~019324119125825808)!
+Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/)!
 
 ### Trading-Related
 
