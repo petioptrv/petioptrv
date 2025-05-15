@@ -49,7 +49,7 @@ Hire me for your project on [LinkedIn](https://www.linkedin.com/in/petioptrv/)!
 
 ### Open Source Contributions
 
-- 🕊️ [hummingbot](https://github.com/hummingbot/hummingbot), top contributor to the `hummingbot` framework.
+- 🕊️ [hummingbot](https://github.com/hummingbot/hummingbot), top contributor to the open-source `hummingbot` crypto trading framework.
 - 🐼 [Dask](https://github.com/dask/dask/pull/5553), small contribution to the Dask library, and one of my first contributions to open source.
 
 ### Productivity
